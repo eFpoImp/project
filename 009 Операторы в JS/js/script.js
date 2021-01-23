@@ -25,3 +25,9 @@ const isChecked = true,
       isClose   = false;
 
 console.log(isChecked && isClose);
+
+
+const isChecked = true,
+      isClose   = false;
+
+console.log(isChecked || isClose);
